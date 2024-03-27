@@ -1,6 +1,6 @@
 # Sunmi-Card-Reader
 
-# ⚠️ Update (20-Oct-2022)
+# ⚠️ Update (27/-3-2024)
 Is been awhile since last update, there still a lot of learning waiting for me, will update some doc regrading what i learn once i free, but if you want immediate answer feel free to contact me.
 
 ## 📝 Side note
